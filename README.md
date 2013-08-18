@@ -2,4 +2,4 @@
 
 This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Examples*](http://railstutorial.org/)
-by [Michael Hart](http://michaelhartl.com)
+by [Ray Liu](http://raythedeveloper.com)
